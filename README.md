@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nandini Bansal<</h1>
+<h1 align="center">Hi there 👋, I'm Nandini Bansal </h1>
 <h3 align="center">AI Engineer | Deep Learning Enthusiast | Blogger | Pythonista | Open Source Beginner </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinib1999&color=blue"/> </p>
 

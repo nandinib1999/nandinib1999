@@ -10,7 +10,7 @@
 
 - 🔭 I have been selected as a participant in **GSSOC'21**
 
-- 🌱 I’m currently learning **AWS, Pose Estimation & Medical Object Detection**
+- 🌱 I’m currently learning **Sklearn Pipelines, PySpark & XAI**
 
 - 💻 Some of my projects are available at [Github](https://github.com/nandinib1999?tab=repositories)
 

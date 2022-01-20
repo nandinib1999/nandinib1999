@@ -1,14 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Nandini Bansal </h1>
-<h3 align="center">AI Engineer | Deep Learning Enthusiast | Blogger | Pythonista | Open Source Beginner </h3>
+<h3 align="center">Data Scientist | Deep Learning Enthusiast | Blogger | Pythonista </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinib1999&color=blue"/> </p>
 
 
-<p align="center">I am currently working as AI Engineer at RapidKen.AI. I am very passionate about the field of Deep Learning. I have worked on various use cases of Computer Vision and NLP. I am particularly interested in the application of AI in the field of medical science. </p>
+<p align="center">I am currently working as Data Scientist at Sezzle India. I am working on interesting problems related to financial risk, fraud analytics and scorecard development. </p>
 <br>
 
 ### About Me:-
-
-- 🔭 I have been selected as a participant in **GSSOC'21**
 
 - 🌱 I’m currently learning **Sklearn Pipelines, PySpark & XAI**
 

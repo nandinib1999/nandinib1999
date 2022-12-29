@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinib1999&color=blue"/> </p>
 
 
-<p align="center">I am currently working as Data Scientist at Sezzle India. I am working on interesting problems related to financial risk, fraud analytics and scorecard development. </p>
+<p align="center">I am currently working in the Product Development team of American Express. I am working on interesting problems related to anomaly detection and data quality. </p>
 <br>
 
 ### About Me:-
 
-- 🌱 I’m currently learning **Sklearn Pipelines, PySpark & XAI**
+- 🌱 I’m currently learning **PySpark & XAI**
 
 - 💻 Some of my projects are available at [Github](https://github.com/nandinib1999?tab=repositories)
 
@@ -16,7 +16,7 @@
 
 - :e-mail: Want to collaborate on a project? You can reach me at ***nandinib1811@gmail.com***
 
-- 💬 Ask me about **Tensorflow Core, Flask, Django, Python, PyTorch, Object Detection & BERT**
+- 💬 Ask me about **Flask, Django, Python, PyTorch & BERT**
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinib1999&layout=compact&hide=html&theme=radical" alt="nandinib1999" />
